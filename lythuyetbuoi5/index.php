@@ -12,7 +12,7 @@ $success = $_GET['success'] ?? "";
     <title>Dashboard Quản lý Đồ án</title>
     <!-- Chèn CSS nếu cần, ví dụ Bootstrap hay style.css -->
     <link rel="stylesheet" href="style.css">
-</head>
+</head> 
 <body>
 <div class="navbar">
     <div>Quản lý Đồ án Tốt nghiệp</div>
